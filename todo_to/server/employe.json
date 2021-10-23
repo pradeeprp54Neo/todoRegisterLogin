@@ -1,0 +1,40 @@
+{
+  "Registration": [
+    {
+      "firstname": "Akshay",
+      "lastname": "madriki",
+      "username": "Akshay",
+      "email": "akshay@gmail.com",
+      "password": "12345678",
+      "conpassword": "12345678",
+      "id": "1"
+    },
+    {
+      "firstname": "akshay",
+      "lastname1": "madriki",
+      "username": "akshay",
+      "email": "akshay@gmail.com",
+      "password": "12345678",
+      "conpassword": "12345678",
+      "id": "rFAJ3EI"
+    },
+    {
+      "firstname": "ranga",
+      "lastname1": "pradeep",
+      "username": "rana",
+      "email": "ranga@gmail.com",
+      "password": "12345678",
+      "conpassword": "12345678",
+      "id": "jAg77Ya"
+    },
+    {
+      "firstname": "sandeep",
+      "lastname1": "sss",
+      "username": "sandeep",
+      "email": "sandy@gmail.com",
+      "password": "12345678",
+      "conpassword": "12345678",
+      "id": "M2SNbIP"
+    }
+  ]
+}
